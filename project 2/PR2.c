@@ -26,7 +26,7 @@ int main()
 		break;
      }
 
-  if(ch == 'A'// ch =='B'// ch == 'C'// ch == 'D')printf("congratulations! \n you are eligible for next level.");else	printf("please try  again next time");
+  if(ch == 'A'|| ch =='B'|| ch == 'C'|| ch == 'D')printf("congratulations! \n you are eligible for next level.");else	printf("please try  again next time");
 }
 
 
