@@ -1,6 +1,5 @@
 //  Q5. develop a program that prints the given full pyramid pattern using a nested for loop.
 
-
 #include<stdio.h>
 int main()
 {
